@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0590ea-370a-4b31-9e4c-abf7c56a5c9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson9/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson12/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson13/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson14/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson15/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson16/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson17/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson18/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson19/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +47,19 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson8.Test">
-    <configuration name="Lesson4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.Test" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson19" />
+      <recent name="Lesson18" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lesson19.Test">
+    <configuration name="Lesson15.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson15.Test" />
       <module name="Alishev Advanced Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
+          <option name="PATTERN" value="Lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson5.Test" />
+    <configuration name="Lesson16.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson16.Test" />
       <module name="Alishev Advanced Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson5.*" />
+          <option name="PATTERN" value="Lesson16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson6.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.Test" />
+    <configuration name="Lesson18.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson18.Test" />
       <module name="Alishev Advanced Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="Lesson18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson7.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7.Test" />
+    <configuration name="Lesson19.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson19.Test" />
       <module name="Alishev Advanced Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson7.*" />
+          <option name="PATTERN" value="Lesson19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson8.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson8.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson17.Test" />
       <module name="Alishev Advanced Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson8.*" />
+          <option name="PATTERN" value="Lesson17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson8.Test" />
-        <item itemvalue="Application.Lesson7.Test" />
-        <item itemvalue="Application.Lesson6.Test" />
-        <item itemvalue="Application.Lesson5.Test" />
-        <item itemvalue="Application.Lesson4.Test" />
+        <item itemvalue="Application.Lesson19.Test" />
+        <item itemvalue="Application.Lesson18.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Lesson16.Test" />
+        <item itemvalue="Application.Lesson15.Test" />
       </list>
     </recent_temporary>
   </component>
